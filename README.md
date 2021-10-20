@@ -18,3 +18,10 @@ docker run -e "ACCEPT_EULA=Y" -e "SA_PASSWORD=<password>" -p 1433:1433 \
     mcr.microsoft.com/mssql/server:2019-latest
 
 ```
+
+## problems
+
+* [go](go)
+* [python](python)
+* [shell](shell)
+* [sql](sql)
