@@ -5,6 +5,7 @@
 * [Palindrome Permutation](palindrome_permutation)
 * [One Away](one_away)
 * [String Compression](string_compression)
+* [Route Between Nodes](route_between_nodes)
 
 ### to run
 
