@@ -11,6 +11,12 @@ docker run -p 3306:3306 -e MYSQL_ROOT_PASSWORD=<password> \
 
 ```
 
+### postgres
+
+```
+docker run -e POSTGRES_PASSWORD=pg -p 5432:5432 postgres:latest
+```
+
 ### sql server
 
 ```
